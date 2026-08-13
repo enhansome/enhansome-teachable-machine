@@ -1,0 +1,87 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Contents"
+    },
+    {
+      "description": "We'll start with the basics, so in this section, you can find the resources for complete beginners.",
+      "items": [],
+      "title": "🏁 Getting Started"
+    },
+    {
+      "description": "The following resources contain thorough step-by-step instructions on how to create and use an Image, Audio or Pose Model.",
+      "items": [],
+      "title": "👶 Starter Projects"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "📖 Tutorials"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "▶️ Videos"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "📚 Libs"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🛠️ Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🦄 Awesome Projects"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Java"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Javascript"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Python"
+    },
+    {
+      "description": "Although the resources here do not use Google’s Teachable Machine directly, they offer useful tools that could benefit your next projects or meaningful ideas you could use for inspiration.",
+      "items": [],
+      "title": "🔍 Related"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "💬 Community"
+    },
+    {
+      "description": "Awesome contributors are most welcomed! Want to share with the world your amazing project or the astonishing resource you stumbled upon, check the CONTRIBUTING.md.",
+      "items": [],
+      "title": "⚙️ Contribute"
+    },
+    {
+      "description": "Copyright © 2020, CloudStrap AD. See LICENSE for further details.",
+      "items": [],
+      "title": "📜 License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:37:56.588Z",
+    "original_repository": "SashiDo/awesome-teachable-machine",
+    "original_repository_sha": "473c0994c13b98640adf90d26e90f533a0c84895",
+    "enhanced_repository": "enhansome/enhansome-teachable-machine",
+    "enhanced_repository_description": null,
+    "title": "The Awesome Teachable Machine List with stars"
+  }
+}

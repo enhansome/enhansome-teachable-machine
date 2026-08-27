@@ -1,9 +1,16 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-08-26T11:40:05.898Z",
-    "original_repository": "SashiDo/awesome-teachable-machine",
-    "original_repository_id": 294404214,
+    "last_updated": "2026-08-27T12:07:48.318Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 294404214,
+      "language": null,
+      "last_commit": "2022-08-30T11:54:18Z",
+      "owner": "SashiDo",
+      "repo": "awesome-teachable-machine",
+      "stars": 239
+    },
     "original_repository_sha": "473c0994c13b98640adf90d26e90f533a0c84895",
     "enhanced_repository": "enhansome/enhansome-teachable-machine",
     "enhanced_repository_description": null,

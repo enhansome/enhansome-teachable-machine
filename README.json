@@ -1,15 +1,27 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-08-28T21:21:08.637Z",
+    "last_updated": "2026-08-29T04:49:41.998Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Useful resources for creating projects with Teachable Machine models + curated list of already built Awesome Apps!",
+      "homepage": "https://teachablemachine.withgoogle.com/",
       "id": 294404214,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2022-08-30T11:54:18Z",
+      "open_issues": 2,
       "owner": "SashiDo",
       "repo": "awesome-teachable-machine",
-      "stars": 239
+      "stars": 239,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "getting-started",
+        "machine-learning",
+        "machine-learning-models",
+        "teachable-machine"
+      ]
     },
     "original_repository_sha": "473c0994c13b98640adf90d26e90f533a0c84895",
     "enhanced_repository": "enhansome/enhansome-teachable-machine",

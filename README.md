@@ -176,12 +176,12 @@ Although the resources here do not use Google’s Teachable Machine directly, th
 
 ## ⚙️ Contribute <span id="contribute"></span>
 
-Awesome contributors are most welcomed! Want to share with the world your amazing project or  the astonishing resource you stumbled upon, check the [CONTRIBUTING.md](https://github.com/SashiDo/awesome-teachable-machine/blob/master/CONTRIBUTING.md) ⭐ 239 | 🐛 2 | 📅 2022-08-30.
+Awesome contributors are most welcomed! Want to share with the world your amazing project or  the astonishing resource you stumbled upon, check the [CONTRIBUTING.md](https://github.com/SashiDo/awesome-teachable-machine/blob/master/CONTRIBUTING.md).
 
 ## 📜 License
 
-Copyright © 2020, CloudStrap AD. See [LICENSE](https://github.com/SashiDo/awesome-teachable-machine/blob/master/LICENSE) ⭐ 239 | 🐛 2 | 📅 2022-08-30 for further details.
+Copyright © 2020, CloudStrap AD. See [LICENSE](https://github.com/SashiDo/awesome-teachable-machine/blob/master/LICENSE) for further details.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._

@@ -1,7 +1,7 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-11-19T19:27:35.327Z",
+    "last_updated": "2026-11-20T19:03:43.931Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for creating projects with Teachable Machine models + curated list of already built Awesome Apps!",
@@ -13,7 +13,7 @@
       "open_issues": 2,
       "owner": "SashiDo",
       "repo": "awesome-teachable-machine",
-      "stars": 241,
+      "stars": 242,
       "topics": [
         "awesome",
         "awesome-list",
